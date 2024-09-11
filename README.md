@@ -8,3 +8,7 @@
 
 ### Description
 This repository is for custom Kafka Connect where connector plugins can be added.
+
+### Usage
+* Add your connector from confluenthub or from a file to connectors.csv
+* Execute docker build command
