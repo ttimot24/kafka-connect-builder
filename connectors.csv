@@ -1,0 +1,3 @@
+debezium,debezium-connector-sqlserver,latest
+debezium,debezium-connector-postgresql,latest
+confluentinc,kafka-connect-elasticsearch,latest
